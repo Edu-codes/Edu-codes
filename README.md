@@ -1,6 +1,6 @@
 ## Hola, soy Edu-codes 👋
 
-<img src="C:\Users\Daniel Eduardo\OneDrive\Documentos\Edu-codes Perfil\Edu-codes\assets\banner.png" align="center" alt="Banner img" style="width:100%, height:100%;" >
+<img src="assets\banner.png" align="center" alt="Banner img" style="width:100%" >
 <!--
 **Edu-codes/Edu-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
