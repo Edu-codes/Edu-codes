@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Edu-codes 👋
 
 <img src="C:\Users\Daniel Eduardo\OneDrive\Documentos\Edu-codes Perfil\Edu-codes\assets" align="center" alt="Banner img" style="width:100%, height:100%;" >
 <!--
