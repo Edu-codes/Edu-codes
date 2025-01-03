@@ -29,11 +29,10 @@
 
 <br>
 
-<div align="center">
 
 - **Frontend:** React, Vite, HTML5, CSS3, JavaScript
 
-<div>
+<div style = "margin-left: 1rem;">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
 </div>
 
@@ -53,11 +52,11 @@
 
 <div>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/github-2_icon-icons.com_71185.png" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://pic.clubic.com/v1/images/2092986/raw" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://www.software.de/media/image/91/bd/8c/XAMPP-Logo.png" style="width: 40px; height: 40px; margin: 5px"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/github-2_icon-icons.com_71185.png" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://pic.clubic.com/v1/images/2092986/raw" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://th.bing.com/th/id/R.6085f5b0267d984fd847c206b6f8d29f?rik=ekrVZObZs%2b2v2A&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58482973cef1014c0b5e49fd.png&ehk=0Bjr5uq%2fmOBMTnsFjpqp5uaBpBxwzxnnwr5Wjc1j0Bg%3d&risl=&pid=ImgRaw&r=0" style="width: 40px; height: 40px; margin: 5px"/>
 
 </div>
 
-</div>
+
 
 <br>
 
