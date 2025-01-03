@@ -44,14 +44,14 @@
 - **Bases de Datos:** MySQL, SQL server
 
 <div>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" style="width: 40px; height: 40px; margin: 5px"/>
 </div>
 
 - **Herramientas:** Node, Git, GitHub, Postman, XAMPP
 
 <div>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/github-2_icon-icons.com_71185.png"/> <img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo.png"/> <img src="https://www.software.de/media/image/91/bd/8c/XAMPP-Logo.png"/> 
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/github-2_icon-icons.com_71185.png" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://pic.clubic.com/v1/images/2092986/raw" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://www.software.de/media/image/91/bd/8c/XAMPP-Logo.png" style="width: 40px; height: 40px; margin: 5px"/> 
 
 </div>
 
