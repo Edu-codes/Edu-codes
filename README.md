@@ -17,19 +17,16 @@
 
 ## 📞 Contactame:
 
-[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/) [![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/instagram-new.png "https://www.instagram.com/gamboa4081/")](https://www.instagram.com/gamboa4081/)[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/facebook.png "@https://www.facebook.com/profile.php?id=100006464567385")](https://www.facebook.com/profile.php?id=100006464567385)[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40px" />](https://wa.me/3112305715)
+[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/) [<img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40px" />](https://wa.me/3112305715)
 
 
-<br>
 
 ## 🔎 Tecnologias:
-<br>
-
 
 - **Frontend:** React, Vite, HTML5, CSS3, JavaScript
 
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img src="https://img.icons8.com/office/48/000000/react.png"/> 
-<br>
+
 
 - **Backend:** Laravel, PHP, ASP.NET
 
