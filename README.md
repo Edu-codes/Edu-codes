@@ -7,11 +7,11 @@
 
 ## Sobre Mi:
 
-- 🔭 Desarrollador de Sofware.
-- 🌱 Actualmente estoy aprendiendo Angular y TypeScript.
-- 🥳 Estoy buscando colaborar en desarrollo Backend/Frontend.
-- 🎓 Estudie Analisis y Desarrollo de Software.
-- 💬 Pregúntame sobre Programacion, Logica de programación.
+- 🔭 **Desarrollador de Software**
+- 🌱 Actualmente estoy aprendiendo **Angular** y **TypeScript**.
+- 🥳 Estoy buscando colaborar en el desarrollo **Backend/Frontend**.
+- 🎓 Estudié **Análisis y Desarrollo de Software**.
+- 💬 Pregúntame sobre **programación y lógica de programación**.
 
 <br>
 
