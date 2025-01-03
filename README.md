@@ -15,13 +15,13 @@
 
 <br>
 
-## 📞 Contactame:
+## Contactame:
 
-[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/) [<img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40px" />](https://wa.me/3112305715)
+[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/) [<img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="Imagen WhatsApp"/>](https://wa.me/3112305715)
 
+<br>
 
-
-## 🔎 Tecnologias:
+## Tecnologias:
 
 - **Frontend:** React, Vite, HTML5, CSS3, JavaScript
 
@@ -31,18 +31,15 @@
 - **Backend:** Laravel, PHP, ASP.NET
 
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>  <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>  <img src="https://repository-images.githubusercontent.com/256338499/691efb00-8303-11ea-8c55-ab6bb5e2676a" style="width: 40px; height: 40px; margin: 5px"/>
-<br>
 
 - **Bases de Datos:** MySQL, SQL server
 
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png" style="width: 40px; height: 40px; margin: 5px"/>
-<br>
+
 
 - **Herramientas:** Node, Git, GitHub, Postman, XAMPP
 
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>  <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/github-2_icon-icons.com_71185.png" style="width: 40px; height: 40px; margin: 5px"/>  <img src="https://pic.clubic.com/v1/images/2092986/raw" style="width: 40px; height: 40px; margin: 5px"/>  <img src="https://th.bing.com/th/id/R.6085f5b0267d984fd847c206b6f8d29f?rik=ekrVZObZs%2b2v2A&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58482973cef1014c0b5e49fd.png&ehk=0Bjr5uq%2fmOBMTnsFjpqp5uaBpBxwzxnnwr5Wjc1j0Bg%3d&risl=&pid=ImgRaw&r=0" style="width: 40px; height: 40px; margin: 5px"/>
-
-
 
 
 <br>
