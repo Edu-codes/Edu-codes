@@ -19,10 +19,7 @@
 
 <div> 
 
-[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/)
-[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/instagram-new.png  "https://www.instagram.com/gamboa4081/")](https://www.instagram.com/gamboa4081/)
-
-[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/facebook.png "@https://www.facebook.com/profile.php?id=100006464567385")](https://www.facebook.com/profile.php?id=100006464567385) 
+[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/) [![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/instagram-new.png  "https://www.instagram.com/gamboa4081/")](https://www.instagram.com/gamboa4081/)[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/facebook.png "@https://www.facebook.com/profile.php?id=100006464567385")](https://www.facebook.com/profile.php?id=100006464567385) 
 
 </div>
 
@@ -41,7 +38,7 @@
 - **Backend:** Laravel, PHP, Node.js
 
 <div>
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/><img src="https://repository-images.githubusercontent.com/256338499/691efb00-8303-11ea-8c55-ab6bb5e2676a" style="width: 40px; height: 40px; margin-left: 5px"/>
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/><img src="https://repository-images.githubusercontent.com/256338499/691efb00-8303-11ea-8c55-ab6bb5e2676a" style="width: 40px; height: 40px; margin: 5px"/>
 </div>
 
 - **Bases de Datos:** MySQL, PostgreSQL
