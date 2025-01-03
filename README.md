@@ -32,7 +32,7 @@
 
 - **Frontend:** React, Vite, HTML5, CSS3, JavaScript
 
-<div style = "margin-left: 1rem;">
+<div style="margin: 0 0 1rem 1rem;">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
 </div>
 
