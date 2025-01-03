@@ -19,7 +19,7 @@
 <br>
 
 
-##Contactame:
+## Contactame:
 
 [![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/)
 
@@ -27,7 +27,7 @@
 <br>
 
 
-##Tecnologias:
+## Tecnologias:
 
 <br>
 - **Frontend:** React, Vite, HTML5, CSS3, JavaScript
