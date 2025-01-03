@@ -17,9 +17,9 @@
 
 ## Contactame:
 
-<div> 
+<div>
 
-[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/) [![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/instagram-new.png  "https://www.instagram.com/gamboa4081/")](https://www.instagram.com/gamboa4081/)[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/facebook.png "@https://www.facebook.com/profile.php?id=100006464567385")](https://www.facebook.com/profile.php?id=100006464567385) 
+[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/linkedin.png "https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/")](https://www.linkedin.com/in/daniel-eduardo-gamboa-le%C3%B3n-69a375249/) [![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/instagram-new.png "https://www.instagram.com/gamboa4081/")](https://www.instagram.com/gamboa4081/)[![@Daniel Gamboa](https://img.icons8.com/fluency/48/000000/facebook.png "@https://www.facebook.com/profile.php?id=100006464567385")](https://www.facebook.com/profile.php?id=100006464567385)
 
 </div>
 
@@ -28,6 +28,8 @@
 ## Tecnologias:
 
 <br>
+
+<div align="center">
 
 - **Frontend:** React, Vite, HTML5, CSS3, JavaScript
 
@@ -51,7 +53,9 @@
 
 <div>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/github-2_icon-icons.com_71185.png" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://pic.clubic.com/v1/images/2092986/raw" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://www.software.de/media/image/91/bd/8c/XAMPP-Logo.png" style="width: 40px; height: 40px; margin: 5px"/> 
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/github-2_icon-icons.com_71185.png" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://pic.clubic.com/v1/images/2092986/raw" style="width: 40px; height: 40px; margin: 5px"/> <img src="https://www.software.de/media/image/91/bd/8c/XAMPP-Logo.png" style="width: 40px; height: 40px; margin: 5px"/>
+
+</div>
 
 </div>
 
