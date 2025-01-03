@@ -35,26 +35,29 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
 </div>
 
-- **Backend:** Laravel, PHP, Node.js
+- **Backend:** Laravel, PHP, ASP.NET
 
 <div>
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/><img src="https://repository-images.githubusercontent.com/256338499/691efb00-8303-11ea-8c55-ab6bb5e2676a" style="width: 40px; height: 40px; margin: 5px"/>
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://repository-images.githubusercontent.com/256338499/691efb00-8303-11ea-8c55-ab6bb5e2676a" style="width: 40px; height: 40px; margin: 5px"/>
 </div>
 
-- **Bases de Datos:** MySQL, PostgreSQL
+- **Bases de Datos:** MySQL, SQL server
 
 <div>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"/>
 </div>
 
-- **Herramientas:** Git, GitHub, Postman, XAMPP
+- **Herramientas:** Node, Git, GitHub, Postman, XAMPP
+
 <div>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://cdn.icon-icons.com/icons2/910/PNG/512/github-2_icon-icons.com_71185.png"/> <img src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo.png"/> <img src="https://www.software.de/media/image/91/bd/8c/XAMPP-Logo.png"/> 
+
 </div>
 
 <br>
 
 ## 🌟 Proyectos Destacados
 
-1. [Proyecto Sismedica](https://github.com/DanielEduardoXx/Inventario-Sismedica) - Gestión de datos médicos con autenticación segura.
-2. [Ecommerce React](https://github.com/DanielEduardoXx/CabanaReact/tree/master) - Tienda en línea con carrito y pagos.
+1. [Proyecto Sismedica](https://github.com/DanielEduardoXx/Inventario-Sismedica) - Gestor de inventario y asignacion de elementos para el personal de la empresa.
+2. [Ecommerce React](https://github.com/DanielEduardoXx/CabanaReact/tree/master) - Tienda en línea con carrito y pagos, con registro y autenticación segura.
