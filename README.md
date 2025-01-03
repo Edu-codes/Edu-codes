@@ -5,9 +5,10 @@
 <img src="assets\banner.png" align="center" alt="Banner img" style="width:100%, height:80%" >
 <!--
 **Edu-codes/Edu-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
-##Sobre Mi:
+## Sobre Mi:
 
 - 🔭 Desarrollador de Sofware
 - 🌱 Actualmente estoy aprendiendo Angular y TypeScript.
@@ -52,4 +53,3 @@
 2. [Ecommerce React](https://github.com/DanielEduardoXx/Ecommerce) - Tienda en línea con carrito y pagos.
 
 
--->
